@@ -1,11 +1,23 @@
-h1 {
-    color: blue;
+header {
+    background-color: blue;
+    height: 118px;
+    width: 1024px;
 }
 
-h2 {
-    color: red;
+nav {
+    background-color: red;
+    height: 40px;
+    width: 1024px;
 }
 
-h3 {
-    color: green;
+main {
+    background-color: yellow;
+    height: 400px;
+    width: 1024px;
+}
+
+footer {
+    background-color: green;
+    height: 100px;
+    width: 1024px;
 }
